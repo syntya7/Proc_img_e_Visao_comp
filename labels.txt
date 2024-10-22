@@ -1,0 +1,5 @@
+0 Oculos
+1 Carregador
+2 Caneta
+3 Pulseira
+4 Chave
