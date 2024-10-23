@@ -1,1 +1,1 @@
-Projeto processamento de imagem feito com uso de celular
+Recentemente, realizamos um projeto de reconhecimento de imagens utilizando uma combinação inovadora de tecnologias: a biblioteca Marsherlene e o Iridium, integrados com um dispositivo móvel. Este projeto teve como objetivo desenvolver uma solução eficaz para reconhecer e classificar imagens em tempo real.
